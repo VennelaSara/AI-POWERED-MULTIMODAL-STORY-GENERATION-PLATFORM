@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.env
+output/
+models/lora/lora_output/
+
+
+node_modules/
+dist/
+.env
+
+.env
+node_modules/
+__pycache__/
+output/
+models/lora/lora_output/
